@@ -1,0 +1,38 @@
+{
+    "name": "Framer Example",
+    "description": "This is an example template repo created using the Framer CLI",
+    "author": "Micah Shackelford",
+    "license": "MIT",
+    "variables": [
+        {
+            "name": "App Name",
+            "code": "app_name",
+            "description": "Name of the application",
+            "type": "text_replace"
+        },
+        {
+            "name": "App Description",
+            "code": "app_description",
+            "description": "Description of the application",
+            "type": "text_replace"
+        },
+        {
+            "name": "Git URL",
+            "code": "git_url",
+            "description": "URL to the git repo",
+            "type": "text_replace"
+        },
+        {
+            "name": "Author Name",
+            "code": "author_name",
+            "description": "Name of the author",
+            "type": "text_replace"
+        },
+        {
+            "name": "Author Email",
+            "code": "author_email",
+            "description": "Email of the author",
+            "type": "text_replace"
+        }
+    ]
+}
